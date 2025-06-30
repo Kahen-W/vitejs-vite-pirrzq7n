@@ -1,6 +1,8 @@
 # 📌 收藏網址小工具（Vue 3 + Composition API）
 
 這是一個使用 Vue 3 Composition API 製作的收藏網址小工具。你可以快速將常用網址儲存到清單中，支援點擊跳轉、刪除、清空全部，並使用 localStorage 確保資料在重新整理後仍保留。
+https://stackblitz.com/edit/vitejs-vite-pirrzq7n?file=src%2FApp.vue
+
 
 ## 🔧 功能介紹
 
